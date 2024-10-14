@@ -1,0 +1,6 @@
+C:\Users\alepi\source\repos\Discriminant\Discriminant\bin\Debug\Discriminant.dll
+C:\Users\alepi\source\repos\Discriminant\Discriminant\bin\Debug\Discriminant.pdb
+C:\Users\alepi\source\repos\Discriminant\Discriminant\obj\Debug\Discriminant.csproj.AssemblyReference.cache
+C:\Users\alepi\source\repos\Discriminant\Discriminant\obj\Debug\Discriminant.csproj.CoreCompileInputs.cache
+C:\Users\alepi\source\repos\Discriminant\Discriminant\obj\Debug\Discriminant.dll
+C:\Users\alepi\source\repos\Discriminant\Discriminant\obj\Debug\Discriminant.pdb
